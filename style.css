@@ -23,6 +23,8 @@ span{
 }
 div.post {
     background: white;
+    padding-bottom: 10px;
+    margin: 15px;
 }
 div.post img{
     width: 100%;
@@ -37,10 +39,10 @@ div.post .post-header div:first-child{
     color:antiquewhite;
 }div.post h2,div.post p{
     padding: 10%;
-    margin: 0;
+    margin: 5px;
 }
 div.container{
-    width: 600xp;
+    width: 600px;
     margin: auto;
 }
 
